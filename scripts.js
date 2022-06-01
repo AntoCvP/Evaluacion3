@@ -20,6 +20,16 @@ const datos = [
         title: "New York Fashion Week",
         text: "Para este año diseñe un colección que aparecio en NYFW, inspirado en la ciudad con un toque vaguardista. Esta colección se exhibió en las calles de Times Square como una especie de MOBB.",
     },
+    {
+        picsum: "https://picsum.photos/id/535/200/300",
+        title: "Falabella",
+        text: "Con Falabella, diseañmos una colección rupturista insipiradas en la calles de Madrid. La moda española es un gran referente en la moda chilena. ",
+    },
+     {
+        picsum: "https://picsum.photos/id/856/200/300",
+        title: "Starbucks",
+        text: "Para la nueva públicidad de Starbucks, queriamos relejar con la ropa ese contraste entre el mundo laboral y el café que es algo tan hogareño.  ",
+    },
 ];
 
 datos.forEach((d, i) => {
